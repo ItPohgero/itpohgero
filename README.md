@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Uploading Screenshot 2025-07-04 at 19.03.42.png…]()
 
 <!--
 **ItPohgero/itpohgero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
